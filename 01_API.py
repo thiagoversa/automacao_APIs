@@ -13,3 +13,4 @@ if resposta.status_code == 200:
 else:
     print(f"Erro! {resposta.status_code}")
     
+alteração feita
