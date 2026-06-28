@@ -12,4 +12,5 @@ if resposta.status_code == 200:
     print(f"Sucesso! {resposta.status_code}")
 else:
     print(f"Erro! {resposta.status_code}")
-    
+
+# adicionando um cometário    
