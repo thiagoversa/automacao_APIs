@@ -14,4 +14,3 @@ else:
     print(f"Erro! {resposta.status_code}")
 
 
-sdfasd
