@@ -1,18 +1,1 @@
 essa parte vai estar só na versão v1
-
-
-essa outra parte vai aparecer no v2
-2
-2
-2
-2
-2
-2
-essa outra parte vai aparecer no v3
-
-vamos criar a versão 4
-
-
-
-agora a última versão sem fazer o git push
-
